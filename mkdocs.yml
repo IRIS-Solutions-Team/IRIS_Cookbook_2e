@@ -9,27 +9,27 @@ markdown_extensions:
     - mdx_math
 
 pages:
-    - The IRIS Cookbook 2e: Index.md
+- The IRIS Cookbook 2e: Index.md
 
-    - IRIS Modeling Philosophy: Philosophy.md
+- IRIS Modeling Philosophy: Philosophy.md
 
-    - Ten-Minute Introduction: Introduction.md
+- Ten-Minute Introduction: Introduction.md
 
-    - Linear Stationary Models: LinearStationary.md
+- Linear Stationary Models: LinearStationary.md
 
-    - Linear Nonstationary Models: LinearNonstationary.md
+- Linear Nonstationary Models: LinearNonstationary.md
 
-    - Nonlinear Nonstationary Models: Nonlinear.md
+- Nonlinear Nonstationary Models: Nonlinear.md
 
-    - Data Management: DataManagement.md
+- Data Management: DataManagement.md
 
-    - Estimation: Estimation.md
+- Estimation: Estimation.md
 
-    - Model Evaluation: Evaluation.md
+- Model Evaluation: Evaluation.md
 
-    - Forecasting: Forecasting.md
+- Forecasting: Forecasting.md
 
-    - Time Series Models: TimeSeriesModels.md
+- Time Series Models: TimeSeriesModels.md
 
-    - Reporting: Reporting.md
+- Reporting: Reporting.md
 
