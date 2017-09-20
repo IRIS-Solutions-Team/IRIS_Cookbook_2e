@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/Home/index.html", 
+            "text": "", 
+            "title": "The IRIS Cookbook 2e"
+        }, 
+        {
+            "location": "/Philosophy/index.html", 
+            "text": "", 
+            "title": "IRIS Modeling Philosophy"
+        }, 
+        {
+            "location": "/Introduction/index.html", 
+            "text": "", 
+            "title": "Ten-Minute Introduction"
+        }, 
+        {
+            "location": "/LinearStationary/index.html", 
+            "text": "", 
+            "title": "Linear Stationary Models"
+        }, 
+        {
+            "location": "/LinearNonstationary/index.html", 
+            "text": "", 
+            "title": "Linear Nonstationary Models"
+        }, 
+        {
+            "location": "/Nonlinear/index.html", 
+            "text": "", 
+            "title": "Nonlinear Nonstationary Models"
+        }, 
+        {
+            "location": "/DataManagement/index.html", 
+            "text": "", 
+            "title": "Data Management"
+        }, 
+        {
+            "location": "/Estimation/index.html", 
+            "text": "", 
+            "title": "Estimation"
+        }, 
+        {
+            "location": "/Evaluation/index.html", 
+            "text": "", 
+            "title": "Model Evaluation"
+        }, 
+        {
+            "location": "/Forecasting/index.html", 
+            "text": "", 
+            "title": "Forecasting"
+        }, 
+        {
+            "location": "/TimeSeriesModels/index.html", 
+            "text": "", 
+            "title": "Time Series Models"
+        }, 
+        {
+            "location": "/Reporting/index.html", 
+            "text": "", 
+            "title": "Reporting"
+        }
+    ]
+}
